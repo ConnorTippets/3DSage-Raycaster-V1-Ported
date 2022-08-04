@@ -1,4 +1,4 @@
-# 3DSage-Raycaster-V1-Ported
+# 3DSage Raycaster V1 Python
 3DSage's Raycaster V1 Ported to pygame.
 
 Credit goes to 3DSage for the original raycaster made in C\
